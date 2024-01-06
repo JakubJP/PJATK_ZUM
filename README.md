@@ -11,3 +11,5 @@ Na potrzeby tego projektu zdania z etykietą zero i amb zostają pominięte
 Źródło danych: https://clarin-pl.eu/dspace/handle/11321/710 -> tylko plik medicine.sentence.train
 
 Modele: LSTM, CNN, pre-trained word embedding, DistilBert
+
+Plik sentiment-medical-pl-utf.csv zawiera dane treningowe
