@@ -13,3 +13,5 @@ Na potrzeby tego projektu zdania z etykietą zero i amb zostają pominięte
 Modele: LSTM, CNN, pre-trained word embedding, DistilBert
 
 Plik sentiment-medical-pl-utf.csv zawiera dane treningowe
+
+Obsługa pliku CSV: Plik CSV pobrany z GitHuba wystarczy wrzucić do najwyższego poziomu dysku Google, zachowując orginalną nazwę pliku.
