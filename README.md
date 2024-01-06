@@ -14,4 +14,4 @@ Modele: LSTM, CNN, pre-trained word embedding, DistilBert
 
 Plik sentiment-medical-pl-utf.csv zawiera dane treningowe
 
-Obsługa pliku CSV: Plik CSV pobrany z GitHuba wystarczy wrzucić do najwyższego poziomu dysku Google, zachowując orginalną nazwę pliku.
+Obsługa: Otworzyć w Google Colab plik NLP-models.ipynb, uruchomić komórkę z połączeniem z dyskiem Google, plik CSV pobrany z GitHuba wystarczy wrzucić do najwyższego poziomu dysku Google, zachowując orginalną nazwę pliku.
